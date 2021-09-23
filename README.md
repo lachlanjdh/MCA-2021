@@ -1,2 +1,4 @@
 # MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+
+For my project I have chosen to examine the works of Electric Light Orchestra, specifcally the song 'Mr Blue Sky', which is often described as the "happiest song in the world".
+

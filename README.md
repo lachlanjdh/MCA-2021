@@ -5,12 +5,17 @@ For my project I have chosen to examine the works of Electric Light Orchestra (E
 After some prelimary research, I was able to find some different types of data:
 
 Audio Recordings:
+
 Original Recording: https://www.youtube.com/watch?v=aQUlA8Hcv4s
+
 Live Recording:     https://www.youtube.com/watch?v=uhEL6CCSDQA
 
 Musical Scores:
+
 Sheet Music: (Low quality PDF) https://idoc.pub/documents/electric-light-orchestra-mr-blue-sky-2nv836vgzrlk
+
 Sheet Music: (Better quality)  https://www.sheetmusicdirect.com/se/ID_No/83833/Product.aspx
 
 Metadata: (For ELO song 'Evil Woman')
+
 https://www.europeana.eu/en/item/2059210/data_sounds_http___archive_org_download_pleasurecraft2013_12_31_ca_14_flac16_pleasurecraft2013_12_31d3t08_mp3

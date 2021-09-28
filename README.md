@@ -2,7 +2,7 @@
 
 For my project I have chosen to examine the works of Electric Light Orchestra (ELO), specifcally their famous song 'Mr Blue Sky'. I thought this song in particular would be interesting to analyse as is often described as the "happiest song in the world". 
 
-After some prelimary research, I was able to find some different types of data:
+After some prelimary research, I was able to find different types of data. There are is a great variety of audio recordings and musical scores for 'Mr Blue Sky' and numerous other ELO songs, however the metadata is a lot more scarce. Most Metadata is related to ELO albums and specific events/performances.
 
 **Audio Recordings:**
 

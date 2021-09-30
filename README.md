@@ -13,6 +13,7 @@ After some prelimary research, I was able to find different types of data. There
 
 * Sheet Music: (Low quality PDF) https://idoc.pub/documents/electric-light-orchestra-mr-blue-sky-2nv836vgzrlk
 * Sheet Music: (Better quality)  https://www.sheetmusicdirect.com/se/ID_No/83833/Product.aspx
+* Sheet Music: (Full Song) https://musescore.com/user/8588961/scores/4994732
 
 **Metadata: (For ELO song 'Evil Woman')**
 

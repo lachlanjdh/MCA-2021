@@ -44,8 +44,26 @@ This week we were using python to develop graphs of our music data. See below.
 
 ![Histogram of pitches](/images/Histogram(1).png)
 
+## Week 5
 
+## Week 6
 
+Reading Week. Spent this time editing Github and filling in gaps from any missed work.
 
+## Week 7
 
+## Week 8
 
+|      Title    |  Mr Blue Sky  | Sweet Talkin' Woman  | Telephone Line |
+| ------------- | ------------- | -------------------- | -------------- |
+| Artist  | Content Cell  | Content Cell  | Content Cell  |
+| Composer  | Content Cell  | Content Cell  | Content Cell  |
+| Copyright info  | Content Cell  | Content Cell  | Content Cell  |
+| Genre  | Content Cell  | Content Cell  | Content Cell  |
+| Source  | Content Cell  | Content Cell  | Content Cell  |
+| Audio Format  | Content Cell  | Content Cell  | Content Cell  |
+| No. of channels  | Content Cell  | Content Cell  | Content Cell  |
+| Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
+| Bits per second  | Content Cell  | Content Cell  | Content Cell  |
+| Duratiomn  | Content Cell  | Content Cell  | Content Cell  |
+| Sample Rate  | Content Cell  | Content Cell  | Content Cell  |

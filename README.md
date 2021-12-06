@@ -54,6 +54,8 @@ Reading Week. Spent this time editing Github and filling in gaps from any missed
 
 ## Week 7
 
+embed pdf file
+
 ## Week 8
 
 |      Title    |  Mr Blue Sky  | Sweet Talkin' Woman  | Telephone Line |

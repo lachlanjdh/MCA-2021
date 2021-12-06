@@ -38,7 +38,7 @@ This week we were encoding notated music using verovio. Using the score I edited
 
 This week we were using python to develop graphs of our music data. See below.
 
-![Piano roll of pitches](/images/NoteQuarterLengthByPitch.png)
+![Piano roll of pitches](/NoteQuarterLengthByPitch.png)
 
 ![Scatter Plot of pitches](/images/ScatterPlot(1).png)
 

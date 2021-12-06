@@ -46,7 +46,7 @@ This week we were using python to develop graphs of our music data. See below.
 
 ## Week 5
 
-[access my csv file here](https://github.com/lachlanjdh/MCA-2021/blob/master/data/mrblueskyeditedSCORE.mei)
+Access my updated MEI file [here](https://github.com/lachlanjdh/MCA-2021/blob/master/data/mrblueskyeditedSCORE.mei)
 
 ## Week 6
 

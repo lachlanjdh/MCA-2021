@@ -34,6 +34,8 @@ This week we began experimenting with a new software - MuseScore. I decided to u
 
 This week we were encoding notated music using verovio. Using the score I edited on MuseScore last week, I exported it as a MusicXML file, which i then converted to an MEI with verovio. After looking through the MEI file, I then uploaded it to the data folder in my repository. Finally, I edited code within the verevio.html folder, to link the respective data set. 
 
+![PDF of Annotated MEI file](/mrblueskyeditedSCORE.pdf)
+
 Access my verovio file [here](verovio.html)
 
 ## Week 4

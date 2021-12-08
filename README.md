@@ -40,6 +40,8 @@ Access my verovio file [here](verovio.html)
 
 (mrblueskyeditedSCORE.mei)
 
+https://lachlanjdh.github.io/MCA-2021/verovio.html
+
 ## Week 4
 
 This week we were using python to develop graphs of our music data. See below.

@@ -38,6 +38,8 @@ This week we were encoding notated music using verovio. Using the score I edited
 
 Access my verovio file [here](verovio.html)
 
+(mrblueskyeditedSCORE.mei)
+
 ## Week 4
 
 This week we were using python to develop graphs of our music data. See below.

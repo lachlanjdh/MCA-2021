@@ -99,7 +99,9 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 ## Week 9
 
-
+![Mr Blue Sky Histograms](/MrBlueSky_MFCC_AllHistograms.png)
+![Sweet Talkin' Woman Histograms](/SweetTalkinWoman_MFCC_AllHistograms.png)
+![Telephone Line Histograms](/TelephoneLine_MFCC_AllHistograms.png)
 
 
 ## Week 10

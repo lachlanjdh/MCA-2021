@@ -103,7 +103,9 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 ![Sweet Talkin' Woman Histograms](/SweetTalkinWoman_MFCC_AllHistograms.png)
 ![Telephone Line Histograms](/TelephoneLine_MFCC_AllHistograms.png)
 
-
 ## Week 10
+
+![Similarity Matrix](/SimilarityMatrix.png)
+![3 Track Plot](/3trackplot.png)
 
 

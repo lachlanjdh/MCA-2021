@@ -89,7 +89,7 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 **Sweet Talkin' Woman**
 
-![Sweet Talkin' Woman Waveform](/SweetTalkin'Waveform.png)
+![Sweet Talkin' Woman Waveform](/SweetTalkin'WomanWaveform.png)
 ![Sweet Talkin' Woman Spectogram](/week9_SweetTalkin'Woman_Spectogram.png)
 
 **Telephone Line**

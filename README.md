@@ -62,6 +62,10 @@ embed pdf file
 
 ## Week 8
 
+#Task 1 - Identifying Metadata
+
+The first task required me to identify metadata for seperate ELO tracks. To do this, I checked the properties of the mp3 files, utilised sonic visualisers information tools, and scanned the relevant music repositories. 
+
 |      Title    |  Mr Blue Sky  | Sweet Talkin' Woman  | Telephone Line |
 | ------------- | ------------- | -------------------- | -------------- |
 | Artist  | Content Cell  | Content Cell  | Content Cell  |
@@ -75,3 +79,21 @@ embed pdf file
 | Bits per second  | Content Cell  | Content Cell  | Content Cell  |
 | Duratiomn  | Content Cell  | Content Cell  | Content Cell  |
 | Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
+
+#Task 2 - Generating Waveforms & Spectograms
+
+![Mr Blue Sky Waveform](/week9_MrBlueSkyWaveform.png)
+![Mr Blue Sky Spectogram](/week9_MrBlueSkySpectogram.png)
+
+![Scatter Plot of pitches](/ScatterPlot(1).png)
+
+![Histogram of pitches](/Histogram(1).png)
+
+## Week 9
+
+
+
+
+## Week 10
+
+

@@ -74,7 +74,7 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 |      Title    |  Mr Blue Sky  | Sweet Talkin' Woman  | Telephone Line |
 | ------------- | ------------- | -------------------- | -------------- |
-| Artist  | Content Cell  | Content Cell  | Content Cell  |
+| Artist  | ELO  | ELO  | ELO  |
 | Composer  | Content Cell  | Content Cell  | Content Cell  |
 | Copyright info  | Content Cell  | Content Cell  | Content Cell  |
 | Genre  | Content Cell  | Content Cell  | Content Cell  |
@@ -82,8 +82,8 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 | Audio Format  | Content Cell  | Content Cell  | Content Cell  |
 | No. of channels  | Content Cell  | Content Cell  | Content Cell  |
 | Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
-| Bits per second  | Content Cell  | Content Cell  | Content Cell  |
-| Duration  | Content Cell  | Content Cell  | Content Cell  |
+| Bits per second  | 123kbps  | 128kpbs  | 128kpbs  |
+| Duration  | 03:43  | 03:52  | 04:41  |
 | Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
 
 ### Task 2 - Generating Waveforms & Spectograms

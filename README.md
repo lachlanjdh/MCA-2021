@@ -82,12 +82,20 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 ### Task 2 - Generating Waveforms & Spectograms
 
+**Mr Blue Sky**
+
 ![Mr Blue Sky Waveform](/MrBlueSkyWaveform.png)
 ![Mr Blue Sky Spectogram](/week9_MrBlueSky_Spectogram.png)
 
-![Scatter Plot of pitches](/ScatterPlot(1).png)
+**Sweet Talkin' Woman**
 
-![Histogram of pitches](/Histogram(1).png)
+![Sweet Talkin' Woman Waveform](/SweetTalkin'Waveform.png)
+![Sweet Talkin' Woman Spectogram](/week9_SweetTalkin'Woman_Spectogram.png)
+
+**Telephone Line**
+
+![Telephone Line Waveform](/TelephoneLineWaveform.png)
+![Telephone Line Spectogram](/week9_TelephoneLine_Spectogram.png)
 
 ## Week 9
 

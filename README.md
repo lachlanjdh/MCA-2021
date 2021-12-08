@@ -79,7 +79,7 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 | No. of channels  | Content Cell  | Content Cell  | Content Cell  |
 | Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
 | Bits per second  | Content Cell  | Content Cell  | Content Cell  |
-| Duratiomn  | Content Cell  | Content Cell  | Content Cell  |
+| Duration  | Content Cell  | Content Cell  | Content Cell  |
 | Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
 
 ### Task 2 - Generating Waveforms & Spectograms

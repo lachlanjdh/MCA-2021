@@ -1,0 +1,165 @@
+
+mei-title[type="subordinate"] {
+  font-size: 18pt;
+  font-variant-caps: small-caps;
+  margin-top: -0.5em;
+}
+
+mei-filedesc > mei-titlestmt > mei-title {
+  color: #595b66;
+  display: block;
+}
+
+mei-filedesc > mei-titlestmt > mei-respstmt {
+  display: block;
+  margin-top: 1em;
+}
+
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::before {
+  font-weight: bold;
+  content: "Composer: ";
+  white-space: pre;
+}
+
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
+  font-weight: bold;
+  content: '\a'"Encoded by: ";
+  white-space: pre;
+}
+
+#pers12345 {
+  margin-top: 2em;
+}
+
+mei-filedesc > mei-pubstmt > mei-respstmt {
+  display: none;
+}
+
+mei-pubstmt > mei-address {
+  display: none;
+}
+
+mei-filedesc > mei-pubstmt > mei-date::before {
+  font-weight: bold;
+  content: "Date encoded: "
+}
+
+mei-filedesc > mei-pubstmt > mei-date::after {
+  content: '\a \a';
+  white-space: pre;
+}
+
+mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
+  font-style: italic;
+  display: block;
+  margin-top: 0.5em;
+}
+
+mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict::after {
+  content: '\a \a';
+  white-space: pre;
+}
+
+mei-seriesstmt {
+  display: none;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-identifier {
+  display: none;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-identifier {
+  display: none;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt::before {
+  font-weight: bold;
+  content: "Source: ";
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt {
+  display: block;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-title[type="uniform"]::before {
+  content: "(";
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-title[type="uniform"] {
+  font-style: italic;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-title[type="uniform"]::after {
+  content: ")";
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="composer"] {
+  display: none;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="dedicatee"]::before {
+  font-weight: bold;
+  content: '\a'"Dedicated to: ";
+  white-space: pre;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-titlestmt > mei-respstmt > mei-persname[role="editor"]::before {
+  font-weight: bold;
+  content: '\a'"Edited by: ";
+  white-space: pre;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-physdesc {
+  display: none;
+}
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-pubstmt > mei-respstmt > mei-corpname::before {
+  font-weight: bold;
+  content: "Published by: ";
+  white-space: pre;
+}
+
+mei-pubplace::before {
+  font-weight: bold;
+  content: '\a'"Publisher location: ";
+  white-space: pre;
+}
+
+/*mei-filedesc > mei-sourcedesc > mei-source > mei-pubstmt::after {
+  content: '\a'
+  white-space: pre;
+} */
+
+mei-filedesc > mei-sourcedesc > mei-source > mei-pubstmt::after {
+  content: '\a''\a';
+  white-space: pre;
+}
+
+mei-encodingdesc {
+  display: none;
+}
+
+mei-workdesc {
+  display: none;
+}
+
+mei-revisiondesc {
+  display: none;
+}
+
+/* styles for html shell and html elements in TEI (e.g.,<a> and <img>) */
+html > body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  margin: 0;
+  padding: 0;
+  margin-left: 2em;
+  margin-right: 4em;
+  padding: 2.5em;
+  font-family: "Lucida Grande", "Cardo", "Arial Unicode MS","Galilee Unicode Gk", "New Athena Unicode", "Athena Unicode", "Palatino Linotype", "Titus Cyberbit Basic", "Vusillus Old Face", "Alphabetum", "Galatia SIL", "Code 2000", "GentiumAlt", "Gentium", "Minion Pro", "GeorgiaGreek", "Vusillus Old Face Italic", "Everson Mono", "Aristarcoj", "Porson", "Legendum", "Aisa Unicode", "Hindsight Unicode", "Caslon", "Verdana", "Tahoma";
+  font-size: 12pt;
+  background-color: white;
+  color: #292929;
+}

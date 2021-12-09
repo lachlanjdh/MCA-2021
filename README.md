@@ -41,7 +41,7 @@ This week we were encoding notated music using verovio. Using the score I edited
 
 Access my verovio file [here](verovio.html)
 
-​<div id="app">Verovio is loading...</div>
+<div id="app">Verovio is loading...</div>
 <script type="module">
 import 'https://www.verovio.org/javascript/app/verovio-app.js';
 const options = {

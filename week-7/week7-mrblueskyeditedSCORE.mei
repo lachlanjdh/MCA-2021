@@ -15,6 +15,8 @@
          </titleStmt>
          <pubStmt><date isodate="2021-10-07" type="encoding-date">2021-10-07</date>
          <label> Frontiers </label>
+            <availability
+                        <accessRestrict> creative commons </accessRestrict>  
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-g8g3xg">

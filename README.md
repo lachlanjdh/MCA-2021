@@ -39,8 +39,6 @@ This week we were encoding notated music using verovio. Using the score I edited
 
 ![PDF of Annotated MEI file](/mrblueskyeditedSCORE.pdf)
 
-Access my verovio file [here](verovio.html)
-
 <div id="app">Verovio is loading...</div>
 <script type="module">
 import 'https://www.verovio.org/javascript/app/verovio-app.js';
@@ -60,8 +58,6 @@ return response.text();
 app.loadData(text);
 });
 </script>
-
-https://lachlanjdh.github.io/MCA-2021/verovio.html
 
 ## Week 4
 

@@ -81,7 +81,25 @@ Reading Week. Spent this time editing Github and filling in gaps from any missed
 
 ## Week 7
 
-embed pdf file
+<div id="app">Verovio is loading...</div>
+<script type="module">
+import 'https://www.verovio.org/javascript/app/verovio-app.js';
+const options = {
+defaultView: 'responsive',
+defaultZoom: 3,
+enableResponsive: true,
+enableDocument: true
+}
+var file = 'week-7/week7-mrblueskyeditedSCORE.mei.mei';
+const app = new Verovio.App(document.getElementById("app"), options);
+fetch(file)
+.then(function(response) {
+return response.text();
+})
+.then(function(text) {
+app.loadData(text);
+});
+</script>
 
 ## Week 8
 

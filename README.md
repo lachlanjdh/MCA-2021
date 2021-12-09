@@ -63,7 +63,9 @@ This week we were using python to develop graphs of our music data. See below.
 
 ![Piano roll of pitches](/NoteQuarterLengthByPitch.png)
 
+
 ![Scatter Plot of pitches](/ScatterPlot(1).png)
+
 
 ![Histogram of pitches](/Histogram(1).png)
 

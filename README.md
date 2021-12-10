@@ -29,10 +29,12 @@ After some prelimary research, I was able to find different types of data. There
 
 This week we began experimenting with a new software - MuseScore. I decided to use the first of the scores above in order to open the song in its entirerity. After comparing with the original scores, I was able to identify all notable inaccuracies, before editing the first page of the score to a more acurate representation. This edited version was then uploaded to github.
 
-**Initial issues:**
+**Initial issues noted:**
 * Notes wrongly split and spaced out - due to the score's vocal section.
 * Numerous wrongly added rests 
 * Tempo interpreted incorrectly (120) - I changed to (160)
+
+See below - First 2 pages of my (slightly edited) musescore file. All issues noted above were handled. Access the file also [here](week-2/mrblueskyeditedSCORE.mscz)
 
 ![MuseScore Screenshot](/week-2/week2-musescore-screenshot.png)
 

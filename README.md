@@ -70,9 +70,18 @@ This week we were using python to develop graphs of our music data. See below.
 
 ## Week 5
 
-Discuss what metadata is relevant. Developing a schema...
+To contextualise this task - we were asked to identify metadata attributes that we would use to find our file among a theoretical 1000. Below are my chosen attributes:
 
-Access my updated MEI file [here](https://github.com/lachlanjdh/MCA-2021/blob/master/data/mrblueskyeditedSCORE.mei)
+Title: Song name
+Composer: Who created the piece
+Arranger: Name of the arranger
+Encoder: Name of the person who encoded the file
+Size: Size of file
+Date: Date of release
+Copyright Information: Information of possible restrictions (likely creative commons)
+Description: Short desciption of the file content
+
+I then applied these to my MEI file. Access that [here](https://github.com/lachlanjdh/MCA-2021/blob/master/data/mrblueskyeditedSCORE.mei)
 
 ## Week 6
 
@@ -89,16 +98,15 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 |      Title    |  Mr Blue Sky  | Sweet Talkin' Woman  | Telephone Line |
 | ------------- | ------------- | -------------------- | -------------- |
 | Artist  | ELO  | ELO  | ELO  |
-| Composer  | Content Cell  | Content Cell  | Content Cell  |
-| Copyright info  | Content Cell  | Content Cell  | Content Cell  |
-| Genre  | Content Cell  | Content Cell  | Content Cell  |
-| Source  | Content Cell  | Content Cell  | Content Cell  |
-| Audio Format  | Content Cell  | Content Cell  | Content Cell  |
-| No. of channels  | Content Cell  | Content Cell  | Content Cell  |
-| Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
+| Composer  | Jeff Lynne  | Jeff Lynne  |  Jeff Lynne  |
+| Copyright info  | 1996 DPRA  | 1996 DPRA  | 1996 DPRA  |
+| Genre  | Prossive-Pop  |  Disco  | soft-rock  |
+| Source  | personal mp3  | personal mp3  | personal mp3  |
+| Audio Format  | mp3  | mp3  | mp3  |
+| No. of channels  | 2  | 2  | 2  |
+| Sample Rate  | 44100 kHz  | 44100 kHz  | 44100 kHz  |
 | Bits per second  | 123kbps  | 128kpbs  | 128kpbs  |
 | Duration  | 03:43  | 03:52  | 04:41  |
-| Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
 
 ### Task 2 - Generating Waveforms & Spectograms
 

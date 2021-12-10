@@ -133,18 +133,18 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 **Mr Blue Sky**
 
-![Mr Blue Sky Waveform](/MrBlueSkyWaveform.png)
-![Mr Blue Sky Spectogram](/week9_MrBlueSky_Spectogram.png)
+![Mr Blue Sky Waveform](/week-9/MrBlueSkyWaveform.png)
+![Mr Blue Sky Spectogram](/week-9/week9_MrBlueSky_Spectogram.png)
 
 **Sweet Talkin' Woman**
 
-![Sweet Talkin' Woman Waveform](/SweetTalkin'WomanWaveform.png)
-![Sweet Talkin' Woman Spectogram](/week9_SweetTalkin'Woman_Spectogram.png)
+![Sweet Talkin' Woman Waveform](/week-9/SweetTalkin'WomanWaveform.png)
+![Sweet Talkin' Woman Spectogram](/week-9/week9_SweetTalkin'Woman_Spectogram.png)
 
 **Telephone Line**
 
-![Telephone Line Waveform](/TelephoneLineWaveform.png)
-![Telephone Line Spectogram](/week9_TelephoneLine_Spectogram.png)
+![Telephone Line Waveform](/week-9/TelephoneLineWaveform.png)
+![Telephone Line Spectogram](/week-9/week9_TelephoneLine_Spectogram.png)
 
 ## Week 9
 
@@ -167,7 +167,7 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 ![Similarity Matrix](/week_10/SimilarityMatrix.png)
 ![3 Track Plot](/week_10/3trackplot.png)
 
-### Task 1 - Transcription
+### Task 2 - Transcription
 
 ![3 Track Plot](/week_10/TranscriptionComparison.png)
 

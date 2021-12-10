@@ -1,7 +1,8 @@
 ## Introduction
 
-Introduction.....
+Welcome to my project for Music Curation and Analytics 2021. Throughout this portfolio, I will be analysing, discussing and evaluating music data as it is transcribed and adapted across 3 primary formats - notation, metadata and audio. 
 
+This portfolio will contain entries from 10 weeks worth of work.
 
 ## Week 1
 
@@ -11,18 +12,18 @@ After some prelimary research, I was able to find different types of data. There
 
 **Audio Recordings:**
 
-* Original Recording: https://www.youtube.com/watch?v=aQUlA8Hcv4s
-* Live Recording:     https://www.youtube.com/watch?v=uhEL6CCSDQA
+* [Original Recording](https://www.youtube.com/watch?v=aQUlA8Hcv4s)
+* [Live Recording](https://www.youtube.com/watch?v=uhEL6CCSDQA)
 
 **Musical Scores:**
 
-* Sheet Music: (Low quality PDF) https://idoc.pub/documents/electric-light-orchestra-mr-blue-sky-2nv836vgzrlk
-* Sheet Music: (Better quality)  https://www.sheetmusicdirect.com/se/ID_No/83833/Product.aspx
-* Sheet Music: (Full Song) https://musescore.com/user/8588961/scores/4994732
+* [Sheet Music: (Low quality PDF)](https://idoc.pub/documents/electric-light-orchestra-mr-blue-sky-2nv836vgzrlk)
+* [Sheet Music: (Better quality)](https://www.sheetmusicdirect.com/se/ID_No/83833/Product.aspx)
+* [Sheet Music: (Full Song)](https://musescore.com/user/8588961/scores/4994732)
 
 **Metadata: (For ELO song 'Evil Woman')**
 
-* https://www.europeana.eu/en/item/2059210/data_sounds_http___archive_org_download_pleasurecraft2013_12_31_ca_14_flac16_pleasurecraft2013_12_31d3t08_mp3
+* [Metadata](https://www.europeana.eu/en/item/2059210/data_sounds_http___archive_org_download_pleasurecraft2013_12_31_ca_14_flac16_pleasurecraft2013_12_31d3t08_mp3)
 
 ## Week 2
 

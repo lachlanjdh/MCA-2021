@@ -131,7 +131,7 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 ![Mr Blue Sky Sonic Visualiser](/week-9/MBSGraphDisplay.png)
 
-![Sweet Talkin' Woman Sonic Visualiser](/week-9/STWGraphDisplay.png)
+![Sweet Talkin' Woman Sonic Visualiser](/week-9/STSGraphDisplay.png)
 
 ![Telephone Line Histograms Sonic Visualiser](/week-9/TLGraphDisplay.png)
 

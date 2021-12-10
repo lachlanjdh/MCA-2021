@@ -139,10 +139,9 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 ![Histogram Comparison](/week-9/HistogramComparison.png)
 
-
 ## Week 10
 
-![Similarity Matrix](/SimilarityMatrix.png)
-![3 Track Plot](/3trackplot.png)
+![Similarity Matrix](/week-9/SimilarityMatrix.png)
+![3 Track Plot](/week-9/3trackplot.png)
 
 

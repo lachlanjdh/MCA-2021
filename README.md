@@ -127,6 +127,16 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 ## Week 9
 
+### Task 1 - Comparing all graphs
+
+![Mr Blue Sky Sonic Visualiser](/week-9/MBSGraphDisplay.png)
+
+![Sweet Talkin' Woman Sonic Visualiser](/week-9/STWGraphDisplay.png)
+
+![Telephone Line Histograms Sonic Visualiser](/week-9/TLGraphDisplay.png)
+
+### Task 2 - Generating Histograms
+
 ![Mr Blue Sky Histograms](/MrBlueSky_MFCC_AllHistograms.png)
 ![Sweet Talkin' Woman Histograms](/SweetTalkinWoman_MFCC_AllHistograms.png)
 ![Telephone Line Histograms](/TelephoneLine_MFCC_AllHistograms.png)

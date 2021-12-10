@@ -64,7 +64,9 @@ app.loadData(text);
 
 ## Week 4
 
-This week we were using python to develop graphs of our music data. See below.
+The first task this week was to run a jysmoblic analysis of our piece. See this [here](MrBlueSkyData.csv)
+
+Then we used python notebook to develop graphs displaying; a pitch histogrram, a scatter plot of pitches and a piano roll for my music data. See below.
 
 ![3 graphs](/week-4/week4-3graphsdisplay.png)
 
@@ -81,13 +83,22 @@ Date: Date of release
 Copyright Information: Information of possible restrictions (likely creative commons)
 Description: Short desciption of the file content
 
-I then applied these to my MEI file. Access that [here](https://github.com/lachlanjdh/MCA-2021/blob/master/data/mrblueskyeditedSCORE.mei)
+I then applied these directly to my MEI file. Access that [here](https://github.com/lachlanjdh/MCA-2021/blob/master/data/mrblueskyeditedSCORE.mei)
+
+Below also shows where within the code I added the metadata elements: 
+
+[XML Code View](/week-5/week5-titlemetadata-screenshot.png)
+
 
 ## Week 6
 
 Reading Week. Spent this time editing Github and filling in gaps from any missed work.
 
 ## Week 7
+
+Continuing on from week 5, I used my new knowledge of metadata to apply more atttributes. These were then added in the relevant areas of the code. The purpose of this task specifically was to render metadata about the peice through Verovio's header. See this below. (If it doesn't load, please refresh).
+
+Note - this is something I had difficulty with, so the code has some errors I don't properly understand - I noted this, to discuss in my reflection.
 
 <div id="app">Verovio is loading...</div>
 <script type="module">
@@ -108,7 +119,6 @@ return response.text();
 app.loadData(text);
 });
 </script>
-
 
 ## Week 8
 
@@ -146,7 +156,13 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 ![Telephone Line Waveform](/week-9/TelephoneLineWaveform.png)
 ![Telephone Line Spectogram](/week-9/week9_TelephoneLine_Spectogram.png)
 
+#### Analysis
+
+Waveforms are evidently less visually informative than spectograms. While containing a lot of inromation, the data is too condensed considering the waveform shows the full song. Spectograms on the other hand, have a higher level of readability, and can provide insight into elements such as; pitch, melodies and notes. This is possible as frequency is shown on the spectogram, rather than amplitude, which is shown on the waveform.
+
 ## Week 9
+
+For this week's task, I had to first collect more songs pertaining to my theme. My 3 chosen ELO songs are now: 'Mr Blue Sky', 'Sweet Talkin' Woman' and 'Telephone Line'. Within sonic visualiser, I uploaded these, and alongside their waveform, developed spectograms, mfccs and chromagrams for each track. Comparative analysis can be seen below.
 
 ### Task 1 - Comparing all graphs
 
@@ -158,17 +174,35 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 ### Task 2 - Generating Histograms
 
+This task required the use of python to develop histograms for each track. With these graphs generated, I was then able to compare data to identify possible patterns, similarities or differences.
+
 ![Histogram Comparison](/week-9/HistogramComparison.png)
 
+#### Analysis
+
+Truthfully, the biggest insight these histograms provided was just how similar audio-wise these ELO tracks are. 'Mr Blue Sky' and 'Telephone Line' in particular are almost identicial in points in terms of overall evolution. All together, the tracks are also notably more similar at the beginning of each song, and most different near the end. 
+
 ## Week 10
+
+For the final week, I once again used Python Notebook to generate 2 graphs - an audio similarity chart, and a similarity matrix. 
 
 ### Task 1 - Audio Similarity
 
 ![Similarity Matrix](/week_10/SimilarityMatrix.png)
 ![3 Track Plot](/week_10/3trackplot.png)
 
+#### Analysis
+
+The results from both of these representations seemed to reinforce my hypothesis from week 9, in terms of similarity. It's interesting to note, that as an ELO fan myself - I consider these songs quite unique from one-another; however graphical representation seems to prove otherwise. Moreover, it should be considered just how distant all of the ELO track values are from the classical and rock variables. The almost 'merging' of colours seen on the similarity matrix supports this; as its quite literally impossible to discern any differnce colour wise when interpreting the chart.
+
 ### Task 2 - Transcription
 
+Almost coming full circle, our final task was to transcribe the processed musical data back into notation, and then compare to the original version edited on musescore. Below a comparison of these can be seen.
+
 ![3 Track Plot](/week_10/TranscriptionComparison.png)
+
+
+
+
 
 

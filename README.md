@@ -34,7 +34,7 @@ This week we began experimenting with a new software - MuseScore. I decided to u
 * Numerous wrongly added rests 
 * Tempo interpreted incorrectly (120) - I changed to (160)
 
-![MuseScore Screenshot](/week2/week2-musescore-screenshot.png)
+![MuseScore Screenshot](/week-2/week2-musescore-screenshot.png)
 
 ## Week 3
 

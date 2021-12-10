@@ -162,7 +162,13 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 ## Week 10
 
+### Task 1 - Audio Similarity
+
 ![Similarity Matrix](/week_10/SimilarityMatrix.png)
 ![3 Track Plot](/week_10/3trackplot.png)
+
+### Task 1 - Transcription
+
+![3 Track Plot](/week_10/TranscriptionComparison.png)
 
 

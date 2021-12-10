@@ -105,15 +105,15 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 | Audio Format  | mp3  | mp3  | mp3  |
 | No. of channels  | 2  | 2  | 2  |
 | Sample Rate  | 44100 kHz  | 44100 kHz  | 44100 kHz  |
-| Bits per second  | 123kbps  | 128kpbs  | 128kpbs  |
+| Bits per second  | 123kbps  | 128kpbs  | 126kpbs  |
 | Duration  | 03:43  | 03:52  | 04:41  |
 
 ### Task 2 - Generating Waveforms & Spectograms
 
 **Mr Blue Sky**
 
-![Mr Blue Sky Waveform](/MrBlueSkyWaveform.png)
-![Mr Blue Sky Spectogram](/week9_MrBlueSky_Spectogram.png)
+![Mr Blue Sky Waveform](/MrBlueSkyWaveform.png  | width=100)
+![Mr Blue Sky Spectogram](/week9_MrBlueSky_Spectogram.png  | width=100)
 
 **Sweet Talkin' Woman**
 

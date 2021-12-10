@@ -112,8 +112,8 @@ The first task required me to identify metadata for seperate ELO tracks. To do t
 
 **Mr Blue Sky**
 
-![Mr Blue Sky Waveform](/MrBlueSkyWaveform.png  | width=100)
-![Mr Blue Sky Spectogram](/week9_MrBlueSky_Spectogram.png  | width=100)
+![Mr Blue Sky Waveform](/MrBlueSkyWaveform.png)
+![Mr Blue Sky Spectogram](/week9_MrBlueSky_Spectogram.png)
 
 **Sweet Talkin' Woman**
 
